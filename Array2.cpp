@@ -1,3 +1,5 @@
+// find the second largest element of an array without sorting.
+
 #include <iostream>
 using namespace std;
 
