@@ -1,4 +1,4 @@
-// check is the array is sorted 
+// check if the array is sorted 
 
 #include <iostream>
 using namespace std;
