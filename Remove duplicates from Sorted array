@@ -1,4 +1,4 @@
-//Remove duplicates from Sorted array
+// Remove duplicates from Sorted array
 
 #include <iostream>
 using namespace std;
