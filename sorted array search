@@ -1,4 +1,4 @@
-// sorted array serach
+// sorted array search
 
 #include <iostream>
 using namespace std;
