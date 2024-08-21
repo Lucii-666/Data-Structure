@@ -2,9 +2,9 @@ Largest element in an array: https://bit.ly/3Pld280
 
 second Largest element in an array without sorting: https://bit.ly/3pFvBcN 
 
-check is the array is sorted : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums. 
+check is the array is sorted : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
-Remove duplicates from Sorted array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively. 
+Remove duplicates from Sorted array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/ 
 
 left rotate by one place: https://leetcode.com/problems/rotate-array/
 
