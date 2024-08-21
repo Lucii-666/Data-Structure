@@ -1,4 +1,4 @@
-// find the maximum consecutive ones in an array
+// Find the maximum consecutive ones in an array
 
 #include <iostream>
 using namespace std;
