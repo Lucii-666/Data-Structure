@@ -1,4 +1,4 @@
-// Find the missing number in an array.
+// Find the missing number in an array
 
 #include <iostream>
 using namespace std;
