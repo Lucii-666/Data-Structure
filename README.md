@@ -19,3 +19,9 @@ Union of two sorted arrays: https://bit.ly/3Ap7Onp
 Find the missing number in an array: https://leetcode.com/problems/missing-number/
 
 Maximum consecutive ones in an array: https://leetcode.com/problems/max-consecutive-ones/
+
+number that appears once and other number twice: https://leetcode.com/problems/single-number/
+
+longest subarray with sum k[positive]: https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+
+longest subarray with sum k: https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
