@@ -2,7 +2,6 @@
 
 #include <iostream>
 using namespace std;
-
 int main() {
     int num[] = {1, 2, 2, 3, 4, 4, 5}; 
     int n = sizeof(num) / sizeof(num[0]); 
