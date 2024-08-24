@@ -1,0 +1,29 @@
+//	Majority Element (>n/2 times)
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    int arr[]={2,2,3,3,1,2,2};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    int maxCnt = 0;
+    int maxEle = -1;
+    for(int i=0;i<n;i++){
+        int cnt = 0;
+        for(int j=0;j<n;j++){
+            if(arr[i]==arr[j]){
+                cnt++;
+            }
+        }
+        if(cnt > maxCnt){
+            maxCnt = cnt;
+            maxEle = arr[i];
+        }
+    }
+    if(maxCnt > n/2){
+        cout << "Majority element is: " << maxEle << endl;
+    } else {
+        cout << "No majority element found." << endl;
+    }
+    return 0;
+}
