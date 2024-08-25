@@ -1,4 +1,4 @@
-//	Majority Element (>n/2 times)
+//	Majority Element (>n/2 times) 
 
 #include <iostream>
 using namespace std;
