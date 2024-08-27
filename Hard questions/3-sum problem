@@ -1,4 +1,4 @@
-//3-sum problem
+// 3-sum problem
 
 #include <iostream>
 using namespace std;
