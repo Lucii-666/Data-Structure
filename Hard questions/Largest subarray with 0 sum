@@ -1,0 +1,29 @@
+//Largest subarray with 0 sum 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a[] = {9, -3, 3, -1, 6, -5};
+    int n = sizeof(a) / sizeof(a[0]);
+    int maxLen = 0;
+    int sum = 0;
+    int left = 0;
+
+    for (int right = 0; right < n; right++) {
+        sum += a[right];
+
+        while (sum > 0 && left <= right) {
+           sum -= a[left];
+            left++;
+        }
+
+        if (sum == 0) {
+            maxLen = max(maxLen, right - left + 1);
+        }
+    }
+
+    cout << maxLen << endl;
+
+    return 0;
+}
